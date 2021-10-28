@@ -1,6 +1,7 @@
-td {
+td,
+th {
   text-align: center;
-  /* border: 1px solid black; */
+  border: 1px solid black;
   height: 50px;
   width: 100px;
   font-size: 25px;
