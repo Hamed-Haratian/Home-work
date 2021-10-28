@@ -8,18 +8,19 @@ td {
 }
 
 .hours {
-  background-color: #f07e7c;
+  background-color: #fd6663;
   padding-bottom: 277px;
 }
 .project {
-  background-color: rgb(12, 167, 12);
+  background-color: #03906d;
   color: white;
 }
 .title {
   color: rgb(119, 14, 119);
-  font-size: 30px;
+  font-size: 35px;
   font-family: sans-serif;
 }
 .practice {
   color: #2a3166;
+  font-size: 50px;
 }
