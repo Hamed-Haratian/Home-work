@@ -9,6 +9,7 @@
   width: fit-content;
   background-color: gray;
   padding: 50px 25px;
+  margin: 50px auto;
 }
 
 .box1 {
@@ -65,4 +66,5 @@
 
 p {
   clear: left;
+  padding: 30px;
 }
