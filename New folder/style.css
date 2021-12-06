@@ -1,0 +1,15 @@
+@font-face {
+  src: url("../fonts/B_Yekan/Yekan.ttf");
+  font-family: Yekan;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  border: none;
+}
+body {
+  direction: rtl;
+  font-family: yekan, sans-serif;
+}
